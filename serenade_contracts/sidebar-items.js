@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"fn":["version"],"mod":["error","pagination","persist_param","unit_of_work"],"trait":["EntityId"]};

@@ -1,0 +1,1 @@
+window.SIDEBAR_ITEMS = {"enum":["SearchError","SearchHttpMethod"],"fn":["version"],"struct":["HttpSearchAdapter","HttpSearchConfig","MemorySearchAdapter","MockSearchHttpPoster","MockSearchRequest","SearchDocument","SearchHit","SearchHttpResponse","SearchQuery"],"trait":["DocumentIndex","SearchHttpPoster"]};
